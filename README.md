@@ -1,8 +1,11 @@
 # ISL-python
 
-<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
+[*An Introduction to Statistical Learning*](http://www-bcf.usc.edu/~gareth/ISL/) is a textbook by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Conceptual and applied excercises are provided at the end of each chapter covering supervised learning.
 
-[*An Introduction to Statistical Learning*](http://www-bcf.usc.edu/~gareth/ISL/) is a textbook by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Conceptual and applied excercises are provided at the end of each chapter covering supervised learning. Here are my solutions to the labs and excercises as Jupyter Notebooks written in Python using:
+
+<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
+  
+This repository contains my solutions to the labs and excercises as Jupyter Notebooks written in Python using:
 
 - Numpy
 - Pandas
