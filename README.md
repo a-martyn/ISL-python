@@ -1,11 +1,11 @@
 # ISL-python
 
-[*An Introduction to Statistical Learning*](http://www-bcf.usc.edu/~gareth/ISL/) is a textbook by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Conceptual and applied excercises are provided at the end of each chapter covering supervised learning.
+[*An Introduction to Statistical Learning*](http://www-bcf.usc.edu/~gareth/ISL/) is a textbook by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. Conceptual and applied exercises are provided at the end of each chapter covering supervised learning.
 
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
   
-This repository contains my solutions to the labs and excercises as Jupyter Notebooks written in Python using:
+This repository contains my solutions to the labs and exercises as Jupyter Notebooks written in Python using:
 
 - Numpy
 - Pandas
@@ -16,7 +16,7 @@ This repository contains my solutions to the labs and excercises as Jupyter Note
 - Sklearn
 
 
-Perhaps of most interest will be the recreation of some functions from the R languge that I couldn't find in the Python ecosystem. These took me some time to reproduce but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. For example, a reproduction of R's `lm()` four-way diagnostic plot for linear regression in Chapter 3. Also, a collection of [all required datasets]((./Notebooks/data)) is provided in .csv format.
+Perhaps of most interest will be the recreation of some functions from the R language that I couldn't find in the Python ecosystem. These took me some time to reproduce but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. For example, a reproduction of R's `lm()` four-way diagnostic plot for linear regression in Chapter 3. Also, a collection of [all required datasets]((./Notebooks/data)) is provided in .csv format.
 
 
 ## To view notebooks
@@ -59,7 +59,7 @@ Running thes notebooks enables you to execute the code and play around with any 
 
 To run these notebooks:
 
-1. [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html). I reccomend doing this via annaconda and conda method which ensure that python package versions play nicely together.
+1. [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html). I recommend doing this via Annaconda/Conda method which ensure that python package versions play nicely together.
 2. `cd` to this repo
-3. Run `jupyter notebook` to run the jupyter server locally on your machine. It should launch in your browser.
+3. Run `jupyter notebook` to run the Jupyter server locally on your machine. It should launch in your browser.
 4. In the Jupyter browser app, navigate to the notebook you'd like to explore.
