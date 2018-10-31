@@ -13,7 +13,7 @@
 - Sklearn
 
 
-Perhaps of most interest will be the recreation of some functions from the R languge that I couldn't find in the Python ecosystem. These took me some time to reproduce but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. For example, a reproduction of R's `lm()` four-way diagnostic plot for linear regression in Chapter 3. Also, a collection of all required [datasets]((./Notebooks/data)) is provided in .csv format.
+Perhaps of most interest will be the recreation of some functions from the R languge that I couldn't find in the Python ecosystem. These took me some time to reproduce but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. For example, a reproduction of R's `lm()` four-way diagnostic plot for linear regression in Chapter 3. Also, a collection of [all required datasets]((./Notebooks/data)) is provided in .csv format.
 
 
 ## To view notebooks
