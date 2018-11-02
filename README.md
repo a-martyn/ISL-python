@@ -23,34 +23,34 @@ Perhaps of most interest will be the recreation of some functions from the R lan
 
 Links to view each notebook below. The code is provided [here](./Notebooks).  
 
-[Chapter 2 - Statistical Learning: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch2_statistical_learning_conceptual.ipynb)  
-[Chapter 2 - Statistical Learning: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch2_statistical_learning_applied.ipynb)
+[Chapter 2 - Statistical Learning: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch2_statistical_learning_conceptual.ipynb)  
+[Chapter 2 - Statistical Learning: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch2_statistical_learning_applied.ipynb)
 
 
-[Chapter 3 - Linear Regression: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch3_linear_regression_conceptual.ipynb)  
-[Chapter 3 - Linear Regression: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch3_linear_regression_applied.ipynb)
+[Chapter 3 - Linear Regression: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch3_linear_regression_conceptual.ipynb)  
+[Chapter 3 - Linear Regression: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch3_linear_regression_applied.ipynb)
 
 
-[Chapter 4 - Classification: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch4_classification_conceptual.ipynb)  
-[Chapter 4 - Classification: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch4_classification_applied.ipynb)
+[Chapter 4 - Classification: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch4_classification_conceptual.ipynb)  
+[Chapter 4 - Classification: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch4_classification_applied.ipynb)
 
 
-[Chapter 5 - Resampling Methods: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch5_resampling_methods_conceptual.ipynb)  
-[Chapter 5 - Resampling Methods: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch5_resampling_methods_applied.ipynb)
+[Chapter 5 - Resampling Methods: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch5_resampling_methods_conceptual.ipynb)  
+[Chapter 5 - Resampling Methods: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch5_resampling_methods_applied.ipynb)
 
 
-[Chapter 6 - Linear Model Selection and Regularization: Labs](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_labs.ipynb)  
-[Chapter 6 - Linear Model Selection and Regularization: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_conceptual.ipynb)  
+[Chapter 6 - Linear Model Selection and Regularization: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_labs.ipynb)  
+[Chapter 6 - Linear Model Selection and Regularization: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_conceptual.ipynb)  
 [Chapter 6 - Linear Model Selection and Regularization: Applied](https://github.com/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_applied.ipynb)
 
 
-[Chapter 7 - Moving Beyond Linearity: Labs](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch7_moving_beyond_linearity_labs.ipynb)  
-[Chapter 7 - Moving Beyond Linearity: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch7_moving_beyond_linearity_applied.ipynb)
+[Chapter 7 - Moving Beyond Linearity: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch7_moving_beyond_linearity_labs.ipynb)  
+[Chapter 7 - Moving Beyond Linearity: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch7_moving_beyond_linearity_applied.ipynb)
 
 
-[Chapter 8 - Tree-Based Methods: Labs](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_labs.ipynb)  
-[Chapter 8 - Tree-Based Methods: Conceptual](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_conceptual.ipynb)  
-[Chapter 8 - Tree-Based Methods: Applied](http://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_applied.ipynb)
+[Chapter 8 - Tree-Based Methods: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_labs.ipynb)  
+[Chapter 8 - Tree-Based Methods: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_conceptual.ipynb)  
+[Chapter 8 - Tree-Based Methods: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_applied.ipynb)
 
 
 ## To run notebooks
