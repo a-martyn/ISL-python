@@ -53,6 +53,11 @@ Links to view each notebook below. The code is provided [here](./Notebooks).
 [Chapter 8 - Tree-Based Methods: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch8_tree_based_methods_applied.ipynb)
 
 
+[Chapter 9 - Support Vetor Machines: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch9_support_vector_machines_labs.ipynb)  
+[Chapter 9 - Support Vetor Machines: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch9_support_vector_machines_conceptual.ipynb)  
+[Chapter 9 - Support Vetor Machines: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch9_support_vector_machines_applied.ipynb)
+
+
 ## To run notebooks
 
 Running thes notebooks enables you to execute the code and play around with any interactive features.
