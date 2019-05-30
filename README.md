@@ -69,9 +69,4 @@ To run these notebooks:
 3. Run `jupyter notebook` to run the Jupyter server locally on your machine. It should launch in your browser.
 4. In the Jupyter browser app, navigate to the notebook you'd like to explore.
 
-## ML Sabbatical
 
-This repository was created as part of my machine learning sabbatical. If you're interested in what else I've been up to here are some links that might be of interest:
-
-- [My curriculum](https://www.alanmartyn.com/ml-curriculum.html)
-- [Learning log](https://www.alanmartyn.com/ml-learning-log.html)
