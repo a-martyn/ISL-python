@@ -60,11 +60,11 @@ Links to view each notebook below. The code is provided [here](./Notebooks).
 
 ## To run notebooks
 
-Running thes notebooks enables you to execute the code and play around with any interactive features.
+Running the notebooks enables you to execute the code and play around with any interactive features.
 
-To run these notebooks:
+To run:
 
-1. [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html). I recommend doing this via Annaconda/Conda method which ensure that python package versions play nicely together.
+1. [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html). I recommend doing this via the Annaconda/Conda method to ensure that package versions play nicely together.
 2. `cd` to this repo
 3. Run `jupyter notebook` to run the Jupyter server locally on your machine. It should launch in your browser.
 4. In the Jupyter browser app, navigate to the notebook you'd like to explore.
