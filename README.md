@@ -41,7 +41,7 @@ Links to view each notebook below. The code is provided [here](./Notebooks).
 
 [Chapter 6 - Linear Model Selection and Regularization: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_labs.ipynb)  
 [Chapter 6 - Linear Model Selection and Regularization: Conceptual](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_conceptual.ipynb)  
-[Chapter 6 - Linear Model Selection and Regularization: Applied](https://github.com/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_applied.ipynb)
+[Chapter 6 - Linear Model Selection and Regularization: Applied](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch6_linear_model_selection_and_regularisation_applied.ipynb)
 
 
 [Chapter 7 - Moving Beyond Linearity: Labs](https://nbviewer.jupyter.org/github/a-martyn/ISL-python/blob/master/Notebooks/ch7_moving_beyond_linearity_labs.ipynb)  
